@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**nikola1708/nikola1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting my account. If you're looking for junior developer with hands-on frontend experience, I might be perfect candidate for you!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's some information about me:
+
+💻 I'm a Computer Science student passionate about Frontend Development, Cybersecurity, and UI/UX design. and love combining design and code to build clean, user-friendly interfaces. 
+🚀 Currently learning React, TypeScript, and exploring cybersecurity fundamentals.  
+🌱 I enjoy building small web projects and sharing my learning journey on GitHub.
+
+🔭 Tools I Use: Git, Vscode, Figma, Kali Linux (currently learning as I explore cybersecurity).
+
+⚡ Fun fact: I like playing chess ><
+
+📫 I’d love to connect! Feel free to reach me at: marianvangelina@gmail.com
+
+
+
+
