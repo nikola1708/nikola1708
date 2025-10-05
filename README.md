@@ -14,7 +14,7 @@ Thanks for visiting my profile! If you're looking for a junior developer with ha
 
 🛠️ Tools I use: **Git**, **VS Code**, **Figma**, **Kali Linux** (currently learning for fun)
 
-♟️ Fun fact: I like playing [chess](https://www.chess.com/member/mollycwann) for fun>< 
+♟️ Fun fact: I like playing [chess](https://www.chess.com/member/mollycwann) it’s one of the fun ways I practice structured thinking and pattern recognition. >< 
 ##
 
 📫 I’d love to connect! Feel free to reach me at: [marianvangelina@gmail.com](mailto:marianvangelina@gmail.com)
