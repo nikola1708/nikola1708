@@ -1,6 +1,4 @@
-Compsci student, focus on web dev and game dev
-
-🛠️ Tools I use: **Git**, **VS Code**, **Figma**, **Inteliij**, **laragon**, **phpmyadmin**
+Most used tools: **Git**, **VS Code**, **Figma**, **Inteliij**, **laragon**
 
 ##
 
