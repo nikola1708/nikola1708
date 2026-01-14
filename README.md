@@ -1,6 +1,6 @@
 linux user
 
-Most used tools: **Git**, **VS Code**, **Figma**, **Bash**, **typescript**
+Most used tools: **Git**, **VS Code**, **Figma**, **Bash**, **typescript**, and more
 
 
 ##
