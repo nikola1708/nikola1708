@@ -4,6 +4,6 @@ Most used tools: **Git**, **VS Code**, **Figma**, **Bash**, **typescript**, and 
 
 
 ##
-Click [here](https://drive.google.com/file/d/1EW0HLQUFao4M1M0YZGsx5x1sJBUw6-dO/view?usp=sharing) to see my resume
+
 
  Reach me at: marianvangelina@gmail.com
