@@ -1,8 +1,4 @@
-linux user
-
-Most used tools: **Git**, **VS Code**, **Figma**, **Bash**, **typescript**, and more
-
-
+Arch linux user
 ##
 
 
