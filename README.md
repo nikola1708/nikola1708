@@ -1,4 +1,4 @@
-# whoami
+# Welcome!
 It's a pleasure to have you here. I'm **Nikola**. 
 
 I'm a 19-year-old Computer Science student from Indonesia with a highly logical approach to problem-solving. I spend most of my time configuring Arch Linux, designing robust backend architectures, and bridging the gap between complex databases and user-friendly frontend interfaces. 
