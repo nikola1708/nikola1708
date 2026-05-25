@@ -1,9 +1,7 @@
-# > whoami
-Hi, I'm **Maria Nikola** (sometimes known as Mowli / Angel in the terminal). 
+# whoami
+It's a pleasure to have you here. I'm **Nikola**. 
 
 I'm a 19-year-old Computer Science student from Indonesia with a highly logical approach to problem-solving. I spend most of my time configuring Arch Linux, designing robust backend architectures, and bridging the gap between complex databases and user-friendly frontend interfaces. 
-
-When I'm not writing code or debugging RESTful APIs, I explore Capture The Flag (CTF) challenges, IoT development, and theatrical arts—which surprisingly taught me a lot about the profound empathy needed for user-centric product design.
 
 ### What I Do
 - **System Architecture & Backend:** Building scalable logic using Python (FastAPI) and Java (OOP), and managing relational data with PostgreSQL/SQL.
