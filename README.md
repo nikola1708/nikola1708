@@ -1,5 +1,5 @@
 # Welcome!
-It's a pleasure to have you here. I'm **Nikola**. 
+It's a pleasure to have you here. I'm Nikola. 
 
 I'm a 19-year-old Computer Science student from Indonesia with a highly logical approach to problem-solving. I spend most of my time configuring Arch Linux, designing robust backend architectures, and bridging the gap between complex databases and user-friendly frontend interfaces. 
 
@@ -20,11 +20,6 @@ I'm a 19-year-old Computer Science student from Indonesia with a highly logical 
 * **Bunny:** A solo-developed platform utilizing Python and FastAPI for the backend, integrated with the Solana blockchain to securely log and protect writers' intellectual property. 
 * **TanamPasti AI:** An IoT-based agricultural monitoring system built for a hackathon, utilizing soil sensors, automated irrigation logic, and Telegram bot integration.
 * **Library Management System:** A core desktop application built with Java OOP to manage library inventories and backend enterprise logic.
-
-###  Fun Facts
-* I thrive in terminal environments and love breaking down mathematical algorithms (from ANOVA to geometry) to optimize my code.
-* I read global conspiracy theories and survivalist literature in my free time.
-* *"Everything can be achieved if you are willing to try for it."* <br/>
 
 <p align="left">
   <a href="mailto:marianvangelina@gmail.com">
