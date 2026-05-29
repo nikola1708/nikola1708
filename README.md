@@ -18,7 +18,6 @@ I'm a 19-year-old Computer Science student from Indonesia with a highly logical 
 ###  Featured Work
 * **University Management Ecosystem (PMB & SIM):** Developed the frontend for my university's admission and internal management systems. Handled cross-platform integration using RESTful APIs to sync campus news and user data in real-time.
 * **Bunny:** A solo-developed platform utilizing Python and FastAPI for the backend, integrated with the Solana blockchain to securely log and protect writers' intellectual property. 
-* **TanamPasti AI:** An IoT-based agricultural monitoring system built for a hackathon, utilizing soil sensors, automated irrigation logic, and Telegram bot integration.
 * **Library Management System:** A core desktop application built with Java OOP to manage library inventories and backend enterprise logic.
 
 <p align="left">
